@@ -1,0 +1,21 @@
+.header-component {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: bisque;
+  padding: 1.5rem 0;
+}
+.header-component ul {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.header-component ul li a {
+  text-decoration: none;
+}
+.header-component ul li a.active-link {
+  color: #ff6600;
+  font-weight: 800;
+}

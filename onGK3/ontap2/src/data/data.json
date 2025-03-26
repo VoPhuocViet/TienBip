@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "hinhAnh": "/images/anh1.png",
+    "tieuDe": "Lập Trình Java Cơ Bản",
+    "tacGia": "Nguyễn Văn A",
+    "gia": "180000",
+    "moTa": "Cuốn sách cung cấp kiến thức nền tảng về lập trình Java cho người mới bắt đầu."
+  },
+  {
+    "id": 2,
+    "hinhAnh": "/images/anh2.png",
+    "tieuDe": "Phân Tích Thiết Kế Hệ Thống",
+    "tacGia": "Trần Thị B",
+    "gia": "200000",
+    "moTa": "Hướng dẫn phân tích và thiết kế hệ thống thông tin theo phương pháp hiện đại."
+  },
+  {
+    "id": 3,
+    "hinhAnh": "/images/anh3.png",
+    "tieuDe": "Cấu Trúc Dữ Liệu & Giải Thuật",
+    "tacGia": "Lê Văn C",
+    "gia": "220000",
+    "moTa": "Tổng hợp các cấu trúc dữ liệu và giải thuật quan trọng trong lập trình."
+  },
+  {
+    "id": 4,
+    "hinhAnh": "/images/anh4.png",
+    "tieuDe": "Hệ Điều Hành",
+    "tacGia": "Phạm Thị D",
+    "gia": "190000",
+    "moTa": "Trình bày nguyên lý hoạt động và kiến trúc của các hệ điều hành phổ biến."
+  },
+  {
+    "id": 5,
+    "hinhAnh": "/images/anh5.png",
+    "tieuDe": "Mạng Máy Tính",
+    "tacGia": "Ngô Văn E",
+    "gia": "210000",
+    "moTa": "Khái quát các mô hình mạng, giao thức và nguyên lý truyền thông."
+  },
+  {
+    "id": 6,
+    "hinhAnh": "/images/anh6.png",
+    "tieuDe": "Cơ Sở Dữ Liệu",
+    "tacGia": "Đỗ Thị F",
+    "gia": "230000",
+    "moTa": "Cung cấp kiến thức từ cơ bản đến nâng cao về hệ quản trị cơ sở dữ liệu."
+  },
+  {
+    "id": 7,
+    "hinhAnh": "/images/anh7.png",
+    "tieuDe": "Trí Tuệ Nhân Tạo",
+    "tacGia": "Vũ Văn G",
+    "gia": "250000",
+    "moTa": "Giới thiệu các thuật toán và ứng dụng trong lĩnh vực trí tuệ nhân tạo."
+  },
+  {
+    "id": 8,
+    "hinhAnh": "/images/anh8.png",
+    "tieuDe": "Phát Triển Ứng Dụng Web",
+    "tacGia": "Nguyễn Thị H",
+    "gia": "270000",
+    "moTa": "Hướng dẫn xây dựng ứng dụng web hiện đại bằng ReactJS và các thư viện liên quan."
+  }
+]
